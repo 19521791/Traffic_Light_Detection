@@ -1,5 +1,5 @@
 <h2>Please see my report <a href="https://github.com/19521791/Traffic_Light_Detection/blob/main/Traffic_light_report.pdf">here</a></h2>
-<h1>Training YOLOv5 on a custom dataset</h1>
+<h1>🚀🚀🚀 Training YOLOv5 on a custom dataset</h1>
 <h3>To train my detector I take the following steps:</h3>
 <ul>
   <li>Prepare my dataset in YOLO format</li>
